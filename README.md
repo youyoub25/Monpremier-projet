@@ -1,2 +1,2 @@
 # Mon Premier Projet
-Ceci est une description de mon projet GIT.
+Ceci est une description de mon projet Git.
